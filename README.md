@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed, a back-end freelance developer 👨‍💻 working remotely🚀</div>  
+### <div align="center">I'm Ahmed, a back-end web developer 👨‍💻 working remotely🚀</div>  
   
 
 <br/>  
